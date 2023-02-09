@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestFizzBuzz" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-02-09T13:26:54" hostname="BRRIOWN042349" time="0.032">
+  <properties/>
+  <testcase name="Calling fizzbuzz with &quot;5&quot; returns list with 5 items()" classname="TestFizzBuzz" time="0.031"/>
+  <testcase name="Calling fizzbuzz with 16 returns out the correct values()" classname="TestFizzBuzz" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
